@@ -39,7 +39,8 @@ This project explores the global impact of COVID-19 using a dataset that include
 
 ### Country Clustering by Cases and Deaths
 
-![Clustering Plot](ihttps://github.com/mehtaricha-23/COVID-19-Impact-Analysis/blob/main/Images/Clustering%20Countries.png)
+![Clustering Plot](https://github.com/mehtaricha-23/COVID-19-Impact-Analysis/blob/main/Images/Clustering%20Countries.png)
+
 
 > ℹ️ Make sure the images are saved inside a folder named `images/` in the same directory as this README.
 
